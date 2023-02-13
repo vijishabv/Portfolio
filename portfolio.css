@@ -1,0 +1,30 @@
+
+body{
+    /*font-family: 'Babylonica', cursive;
+    font-family: 'Itim', cursive;
+    font-family: 'Playfair Display', serif;*/
+    font-family: 'Single Day', cursive;
+}
+#navbar{
+    background-color: rgb(144, 150, 223);
+   text-align: center;
+   
+}
+#shrey{
+    background-color:rgb(220, 125, 125) ;
+    width: 1900px;
+    height: 600px;
+    
+}
+#img{
+    margin-left: 500px;
+    margin-top: 100px;
+    border-radius: 50%;
+}
+#h1{
+    text-align: center;
+    color: blue;
+}
+html{
+    scroll-behavior: smooth;
+}
